@@ -9,4 +9,6 @@ Its build with :
  - HTML5 
  - Javascript(ES6)
  - CSS3
+ - Flexbox 
+ with responsive design.
 
