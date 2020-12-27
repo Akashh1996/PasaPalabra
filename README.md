@@ -5,7 +5,7 @@ Here is the deploy link, ----. You can play and have fun.
 # Technology
 Its a simple game, created without any frameworks in vanilla javascript. 
 Its build with :
- - HTML 
+ - HTML5 
  - Javascript(ES6)
  - CSS3
 
